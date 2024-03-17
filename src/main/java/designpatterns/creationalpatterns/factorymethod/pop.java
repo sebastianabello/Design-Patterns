@@ -1,4 +1,4 @@
 package designpatterns.creationalpatterns.factorymethod;
 
-public class Borrable {
+public interface pop {
 }
