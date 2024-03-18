@@ -1,4 +1,5 @@
 package designpatterns.structuralpatterns.proxy;
 
-public class Borrable {
+public interface Concierto {
+    void asistir();
 }

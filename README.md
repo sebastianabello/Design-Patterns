@@ -45,13 +45,13 @@ Además, pueden mejorar el rendimiento al evitar la creación innecesaria de obj
 
 ![Diagrama singleton](./src/main/java/source/singleton.jpeg)
 
-## 🏛️ Patrones extructurales
+## 🏛️ Patrones estructurales
 
 Su objetivo es organizar y componer objetos de forma eficiente y flexible. Estos patrones aumentan la claridad y la
 flexibilidad en la estructura del código, lo que facilita la reutilización de código y la colaboración entre
 desarrolladores. También pueden mejorar la mantenibilidad y la extensibilidad del código.
 
-![Diagrama dvd](./src/main/java/source/tablas/Estructurales.png)
+![Diagrama dvd](./src/main/java/source/tablas/Estructurales1.png)
 
 ### 📋 Tipos
 
@@ -97,53 +97,73 @@ desarrolladores. También pueden mejorar la mantenibilidad y la extensibilidad d
 ### Proxy
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureProxy.png)
 
 ## 🚸 Patrones de comportamiento
 
 Su objetivo es definir cómo los objetos interactúan y colaboran entre sí. Estos patrones hacen que el código sea más
 flexible y adaptable a cambios en los requisitos. Además, facilitan la comunicación y el intercambio de información
 entre objetos, mejorando la modularidad y la reutilización del código.
-
+![Diagrama dvd](./src/main/java/source/tablas/Comportamiento1.png)
+![Diagrama dvd](./src/main/java/source/tablas/Comportamiento2.png)
 ### 📋 Tipos
 
 ### Chain of Responsibility
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureChainOfResponsability.png)
 
 ### Command
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureCommand.png)
 
 ### Iterator
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureIterator.png)
 
 ### Mediator
 
 #### 📝 Diagrama de clases
-
+![Diagrama Proxy](./src/main/java/source/structureMediator.png)
 ### Memento
 
+
 #### 📝 Diagrama de clases
+##### Implementación basada en clases anidadas
+![Diagrama Proxy](./src/main/java/source/structureMemento.png)
+
+##### Implementación basada en una interfaz intermedia
+![Diagrama Proxy](./src/main/java/source/structureMemento2.png)
+
+##### Implementación con una encapsulación más estricta
+![Diagrama Proxy](./src/main/java/source/structureMemento3.png)
 
 ### Observer
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureObserver.png)
 
 ### State
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureState.png)
 
 ### Strategy
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureStrategy.png)
 
 ### Template Method
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureTemplateMethod.png)
 
 ### Visitor
 
 #### 📝 Diagrama de clases
+![Diagrama Proxy](./src/main/java/source/structureVisitor.png)
+
 
 

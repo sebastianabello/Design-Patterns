@@ -1,4 +1,5 @@
 package designpatterns.behavioralpatterns.command;
 
-public class Borrable {
+public interface Comando {
+    void ejecutar();
 }
